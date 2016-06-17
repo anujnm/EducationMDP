@@ -5,6 +5,9 @@ This MDP assumes that the agent has recently graduated from their undergrad prog
 2. Go to grad school
 3. Start a part time/online grad school program, while working full time
 
+![alt tag](https://raw.githubusercontent.com/anujnm/EducationMDP/master/resources/img/Education%20MDP.jpg)
+
 The system is stochastic, and each choice has its own reward. 
 
 The MDP leverages the BURLAP library (burlap.cs.brown.edu), and performs policy iteration, value iteration, and Q learning. 
+
